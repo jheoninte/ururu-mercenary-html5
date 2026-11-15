@@ -1,21 +1,15 @@
-# 우르르 용병단 HTML5 Prototype
+# 우르르 용병단 HTML5 Prototype v4
 
-JRPG style game inspired by Ururu Mercenary Corps, Final Fantasy IV and Dragon Quest.
+## 추가된 기능
+- 타일 기반 맵 시스템 (초원 / 던전)
+- 보스전 (던전에서 조건 만족 시 등장)
+- 저장/불러오기 강화 (localStorage, 파티/위치/재화 포함)
+- 모바일 터치 최적화 (가상 조이스틱)
 
-## Features in v3
-- 10-pull gacha with card flip animation
-- SSR heroes (Jennifer, Eveline) + more
-- Party formation screen
-- Enhanced gacha effects
-- Summon stone shop + daily rewards (localStorage)
+## 조작
+- 키보드: 방향키 / WASD
+- R: 지역 전환
+- 모바일: 왼쪽 하단 조이스틱
+- 버튼: 가챠, 파티, 상점, 저장, 불러오기
 
-## How to run
-Open index.html in browser. Place image assets in imagine_images/ folder.
-
-## Controls
-- Arrow keys / WASD: Move
-- 1/2: Skills
-- R: Change region
-- Buttons: Gacha, Party, Shop
-
-Assets are generated pixel art. Full index.html will be updated next.
+이미지 에셋은 imagine_images/ 폴더에 넣어주세요.
