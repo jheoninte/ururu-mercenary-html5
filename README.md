@@ -1,6 +1,5 @@
-# Pixel Art + Tilemap + Combat Effects
+# Tilemap Collision
 
-- 픽셀 아트 캐릭터/적 스프라이트 적용
-- 타일맵 + 건물/오브젝트
-- 전투 이펙트 + 다수 적
-- 모바일 세로 화면 유지
+- 건물/경계 타일 충돌 처리
+- 플레이어와 적 모두 통과 불가
+- AABB 기반 충돌 검사 최적화
