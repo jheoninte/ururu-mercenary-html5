@@ -1,6 +1,5 @@
-# Play Style Reference
+# Fixed: Game now starts even without images
 
-우르르 용병단 스타일 참고:
-- 탭으로 목적지 이동
-- 멈추면 자동 공격 강화
-- 파티가 우르르 이동하며 전투
+- Image load failure no longer blocks startup
+- Fallback colored shapes if sprites missing
+- Tap-to-move works reliably
