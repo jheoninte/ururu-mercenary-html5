@@ -1,5 +1,9 @@
-# Fixed: Game now starts even without images
+# 로컬 실행 방법
 
-- Image load failure no longer blocks startup
-- Fallback colored shapes if sprites missing
-- Tap-to-move works reliably
+이미지가 포함된 완전한 패키지는 아래 zip을 다운로드하세요.
+
+1. ururu-game.zip 다운로드
+2. 압축 해제
+3. index.html 열기
+
+이렇게 하면 픽셀 아트 스프라이트가 정상적으로 로드됩니다.
